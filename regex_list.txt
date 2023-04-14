@@ -1,0 +1,2 @@
+||/rr.*/googlevideo.com^$important
+/rr.*/googlevideo.com^$important
